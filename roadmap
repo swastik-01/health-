@@ -1,0 +1,19 @@
+patient login api
+register new patient
+
+logic
+-check for the same record
+-no duplication of the records
+
+
+make folders
+for 
+-database
+-routers
+-models
+
+apis\
+-patient.js
+-record.js
+
+
